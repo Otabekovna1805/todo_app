@@ -1,0 +1,9 @@
+{
+  "app_name": "TODO",
+  "title": "Title",
+  "description": "Description",
+  "delete": "Delete",
+  "edit": "Edit",
+  "detail": "Detail",
+  "edit_page": "Edit Page"
+}
